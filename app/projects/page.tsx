@@ -11,7 +11,7 @@ export const revalidate = 60;
 export default async function ProjectsPage() {
 	
 	const featured = allProjects.find(
-		(project) => project.slug === "planetfall",
+		(project) => project.slug === "nextland",
 	)!;
 	const top2 = allProjects.find((project) => project.slug === "highstorm")!;
 	const top3 = allProjects.find((project) => project.slug === "envshare")!;

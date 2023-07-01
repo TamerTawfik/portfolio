@@ -45,13 +45,13 @@ export default function Home() {
 					</Link>
 
 					<br />
-					and template author at{" "}
+					and building open-source projects at{" "}
 					<Link
 						target="_blank"
-						href="https://www.templatemonster.com/"
+						href="https://github.com/TamerTawfik"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						Template Monster
+						GitHub
 					</Link>.
 				</h2>
 			</div>
